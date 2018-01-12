@@ -1,0 +1,13 @@
+body{
+	margin: 0;
+}
+table{
+	margin:auto;
+	width:80%;
+}
+.tdshow{
+	background-color: #E8F7FF;
+}
+span{
+	color: red;
+}
